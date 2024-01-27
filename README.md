@@ -1,4 +1,9 @@
-# searchengine
+# AI-powered Web Search Engine
+
+## Demo
+
+[![AI-powered Web Search (with source links) - Watch Video](https://cdn.loom.com/sessions/thumbnails/3f7f052d21a74ba083d38d007754066d-with-play.gif)](https://www.loom.com/share/3f7f052d21a74ba083d38d007754066d)
+
 
 ## Installation
 
